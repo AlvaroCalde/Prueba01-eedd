@@ -11,6 +11,6 @@ package com.mycompany.prueba1_eedd;
 public class Prueba1_eedd {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello!");
     }
 }
